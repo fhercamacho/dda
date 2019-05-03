@@ -1,10 +1,5 @@
-letra,numero,color,marca
-a,1,blue,marca
-e,2,green,marca
-i,3,red,marca
-o,4,yellow,marca
-u,5,orange,marca
-b,1.75,azul,marca
-c,2.75,pink,marca
-aa,55,greengreen,chevrolet
-34,23,rr,t
+User,Name,Password,Matematicas,Espaniol,Quimica,Danza
+A00000001,A,tigre,tarea_M1,na,na,na
+A00000002,B,gato,tarea_M1,tarea1_E1,na,na
+A00000003,C,leon,tarea1_M1,tarea1_E1,tarea_Q1,na
+A00000003,C,leon,tarea1_M1,tarea1_E1,tarea_Q1,tarea_D1
